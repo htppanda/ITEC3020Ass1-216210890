@@ -23,6 +23,7 @@ h1 {
 .navbar {
 	background-color: #A7E0E1;
 	overflow: hidden;
+	width = 100%
 }
 			
 .navbar a {
@@ -35,6 +36,10 @@ h1 {
 .navbar a:hover {
 	background-color: #009999;
 	color: black;
+}
+
+.navbar a:active {
+	color: white;
 }
 
 .navbar input[type=text] {

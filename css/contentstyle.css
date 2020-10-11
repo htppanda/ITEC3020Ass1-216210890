@@ -27,13 +27,23 @@
 }
 
 p {
-	font-family: Atial, Helvetica, sans-serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 			
 .suggested {
 	border-style: dashed;
 	border-width: 2px;
 	padding: 30px;
+	width = 100%;
+	overflow-x: auto;
+}
+
+.suggested a:hover {
+	color: #A7E0E1;
+}
+
+.suggested a:active {
+	color: white;
 }
 			
 table {
@@ -45,6 +55,7 @@ table {
 			
 th {
 	border: 0.5px solid black;
+	padding: 20px;
 }
 			
 td {
