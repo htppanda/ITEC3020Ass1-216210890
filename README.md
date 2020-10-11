@@ -8,13 +8,16 @@
 	
 	CSS files included:
 	1. headerstyle.css
-		- style for body, logo, title of the shop as well as the navigation bar.
-	2. contentstyle.css
+		- style for body, logo, and title of the shop.
+	2. navbarstyle.css 
+		- style for the navigation bar.
+	3. contentstyle.css
 		- style for the product part as well as for the section of suggested product.
-	3. color.css
+	4. color.css
 		- style for color button for the product.
-	4. size.css
+	5. size.css
 		- style for size button for the product.
-	5. buttonstyle.css
+	6. buttonstyle.css
 		- style for other buttons including "add to cart" and "view cart" button.
-	
+	7. responsive.css
+		- style a responsive webpage for mobile and tablet users.

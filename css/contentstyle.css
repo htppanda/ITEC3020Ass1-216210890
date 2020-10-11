@@ -1,9 +1,12 @@
+/* Style for all contents in the webpage excluding header*/
+/* Style for product section */
 .product {
 	border-style: solid;
 	border-width: 2px;
 	padding-right: 40px;
 }
-			
+
+/* Rows and columns */			
 .column {
 	float: left;
 }
@@ -26,10 +29,12 @@
 	clear:both;
 }
 
+/* Paragraphs */
 p {
 	font-family: Arial, Helvetica, sans-serif;
 }
-			
+
+/* Style in suggested product section */			
 .suggested {
 	border-style: dashed;
 	border-width: 2px;
@@ -45,7 +50,8 @@ p {
 .suggested a:active {
 	color: white;
 }
-			
+
+/* Tables and data */			
 table {
 	border: solid;
 	border-collapse: collapse;

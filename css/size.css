@@ -1,3 +1,4 @@
+/* Style for product size */
 .size {
 	border-radius: 8px;
 }
@@ -11,19 +12,23 @@
 	background-color: white;
 	color: black;
 }
-			
+
+/* Size S */	
 .sizes {
 	font-size: 12px;
 }
-			
+
+/* Size M */		
 .sizem {
 	font-size: 14px;
 }
-			
+
+/* Size L */			
 .sizel {
 	font-size: 16px;
 }
-			
+
+/* Size XL */			
 .sizexl { 
 	font-size: 18px;
 }

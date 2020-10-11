@@ -1,7 +1,4 @@
-* {
-	box-sizing: border-box;
-}
-
+/* Style for header excluding View Cart button */
 body {
 	background-color:#cfdbf0;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -20,35 +17,7 @@ h1 {
 	font-size: 100px;
 }
 		
-.navbar {
-	background-color: #A7E0E1;
-	overflow: hidden;
-	width = 100%
-}
-			
-.navbar a {
-	float: left;
-	display: block;
-	padding: 14px 20px;
-	text-align: center;
-}
-			
-.navbar a:hover {
-	background-color: #009999;
-	color: black;
-}
 
-.navbar a:active {
-	color: white;
-}
-
-.navbar input[type=text] {
-	float: right;
-	margin: 8px;
-	padding: 8px 120px;
-	font-size: 16px;
-	border: 1px solid black;
-}
 			
 			
 			
