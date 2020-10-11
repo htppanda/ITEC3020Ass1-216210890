@@ -1,0 +1,39 @@
+button {
+	background-color: white;
+	color: black;
+	text-align: center;
+	padding: 10px 20px;
+	transition-duration: 0.3s;
+}
+
+.viewcart {
+	float: right;
+	background-color: #cacccb;
+	color: black;
+	padding: 12px 40px;
+}
+			
+.viewcart:hover {
+	background-color: #a7e0e1;
+	color: black;
+}
+			
+.viewcart:active {
+	background-color: white;
+	color: black;
+}
+
+.addcart {
+	border-radius: 20px;
+	float: right;
+}
+			
+.addcart:hover {
+	background-color: #cacccb;
+	color: black;
+}
+			
+.addcart:active {
+	background-color: white;
+	color: black;
+}

@@ -1,0 +1,124 @@
+.color {
+	border-radius: 4px;
+}
+			
+.black {
+	background-color: white;
+	color: black;
+}
+			
+.black:hover {
+	background-color: black;
+	color: white;
+}
+			
+.black:active {
+	background-color: white;
+	color: black;
+}				
+			
+.white {
+	background-color: white;
+	color: black;
+}
+			
+.white:hover {
+	background-color: white;	
+	color: black;
+	border-color: white;
+}
+			
+.white:active {
+	background-color: black;
+	color: white;
+}	
+			
+.navyblue {
+	background-color: white;
+	color: black;
+}
+			
+.navyblue:hover {
+	background-color: #2e509e;
+	color: white;
+}
+			
+.navyblue:active {
+	background-color: white;
+	color: black;
+}
+				
+.grey {
+	background-color: white;
+	color: black;
+}
+			
+.grey:hover {
+	background-color: #808080;
+	color: black;
+}
+			
+.grey:active {
+	background-color: white;
+	color: black;
+}
+			
+.orange {
+	background-color: white;
+	color: black;
+}
+			
+.orange:hover {
+	background-color: #ffbf00;
+	color: white;
+}
+			
+.orange:active {
+	background-color: white;
+	color: black;
+}
+			
+.lightpink {
+	background-color: white;
+	color: black;
+}
+			
+.lightpink:hover {
+	background-color: #f1d2e7;
+	color: black;
+}
+			
+.lightpink:active {
+	background-color: white;
+	color: black;
+}
+			
+.lightpurple {
+	background-color: white;
+	color: black;
+}
+			
+.lightpurple:hover {
+	background-color: #bbb0dc;
+	color: black;
+}
+			
+.lightpurple:active {
+	background-color: white;
+	color: black;
+}
+			
+.lightblue {
+	background-color: white;
+	color: black;
+}
+			
+.lightblue:hover {
+	background-color: #b7d3e9;
+	color: black;
+}
+			
+.lightblue:active {
+	background-color: white;
+	color: black;
+}

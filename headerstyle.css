@@ -1,0 +1,52 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color:#cfdbf0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-style: normal;
+	font-size: 16px;
+}
+			
+.heading {
+	background-color:#FFFFFF;
+	padding: 80px 80px 80px 80px;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 100px;
+}
+		
+.navbar {
+	background-color: #A7E0E1;
+	overflow: hidden;
+}
+			
+.navbar a {
+	float: left;
+	display: block;
+	padding: 14px 20px;
+	text-align: center;
+}
+			
+.navbar a:hover {
+	background-color: #009999;
+	color: black;
+}
+
+.navbar input[type=text] {
+	float: right;
+	margin: 8px;
+	padding: 8px 120px;
+	font-size: 16px;
+	border: 1px solid black;
+}
+			
+			
+			
+			
+
+				

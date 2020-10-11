@@ -1,0 +1,29 @@
+.size {
+	border-radius: 8px;
+}
+			
+.size:hover {
+	background-color: #cacccb;
+	color: black;
+}
+			
+.size:active {
+	background-color: white;
+	color: black;
+}
+			
+.sizes {
+	font-size: 12px;
+}
+			
+.sizem {
+	font-size: 14px;
+}
+			
+.sizel {
+	font-size: 16px;
+}
+			
+.sizexl { 
+	font-size: 18px;
+}
